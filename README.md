@@ -1,6 +1,6 @@
 Hello there <br /><br />
 I just randomly upload code here.<br /><br /><br />
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rally0078&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rally0078&exclude_repo=jupyter-repo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 Link to pfp: https://twitter.com/asagi_0398/status/1471417918206640128
 
