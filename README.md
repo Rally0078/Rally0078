@@ -1,5 +1,5 @@
 Hello there <br /><br />
-I just randomly upload code here.<br /><br /><br />
+I just randomly upload code here (mostly lab work).<br /><br /><br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook&theme=omni&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 Link to pfp: https://twitter.com/asagi_0398/status/1471417918206640128
