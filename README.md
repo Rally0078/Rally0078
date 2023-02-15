@@ -1,5 +1,6 @@
 Hello there <br /><br />
 I just randomly upload code here (mostly lab work).
+<hr>
 <h2>Current Goals</h2>
 <ul>
   <li>Neural network implementation in C++</li>
