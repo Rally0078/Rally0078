@@ -7,6 +7,7 @@ I just randomly upload code here (mostly lab work).
   <li>Unreal Engine 5</li>
   <li>Computational physics</li>
   <li>Computational astrodynamics</li>
+  <li>Computational Fluid Dynamics</li>
 </ul>
 <hr>
 <br />
