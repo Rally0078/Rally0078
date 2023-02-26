@@ -3,6 +3,7 @@ I just randomly upload code here (mostly lab work).
 <hr>
 <h2>Current Goals</h2>
 <ul>
+  <li>Portfolio website</li>
   <li>Neural network implementation in C++</li>
   <li>Unreal Engine 5</li>
   <li>Computational physics</li>
