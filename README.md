@@ -1,5 +1,5 @@
 Hello there <br /><br />
-I just randomly upload code here (mostly lab work and personal projects, scripts).
+I just randomly upload code here (mostly lab work and personal projects, scripts, etc,).
 <hr>
 <h2>Current Goals</h2>
 <ul>
