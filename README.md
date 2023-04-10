@@ -1,5 +1,5 @@
 Hello there <br /><br />
-I just randomly upload code here (mostly lab work).
+I just randomly upload code here (mostly lab work and personal projects, scripts).
 <hr>
 <h2>Current Goals</h2>
 <ul>
@@ -9,6 +9,7 @@ I just randomly upload code here (mostly lab work).
   <li>Computational physics</li>
   <li>Computational astrodynamics</li>
   <li>Computational Fluid Dynamics</li>
+  <li>Stochastic Calculus and time series analysis</li>
 </ul>
 <hr>
 <br />
