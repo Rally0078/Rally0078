@@ -5,7 +5,7 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <ul>
   <li>Portfolio website</li>
   <li>Neural network implementation in C++</li>
-  <li>~~Unreal Engine 5~~</li>
+  <li><del>Unreal Engine 5</del></li>
   <li>Computational physics</li>
   <li>Computational astrodynamics</li>
   <li>Computational Fluid Dynamics</li>
