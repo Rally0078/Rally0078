@@ -5,8 +5,9 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <ul>
   <li>Portfolio website</li>
   <li>Neural network implementation in C++</li>
+  <li>Machine learning and statistical algorithm implementations in C++</li>
   <li><del>Unreal Engine 5</del></li>
-  <li>Computational physics</li>
+  <li>Computational physics(PDE solvers)</li>
   <li>Computational astrodynamics</li>
   <li>Computational Fluid Dynamics</li>
   <li>Stochastic calculus and time series analysis</li>
