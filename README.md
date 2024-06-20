@@ -4,11 +4,8 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <h2>Current Goals</h2>
 <ul>
   <li>Portfolio website</li>
-  <li>Neural network implementation in C++</li>
-  <li>Machine learning and statistical algorithm implementations in C++</li>
   <li>Unreal Engine 5</li>
   <li>Computational physics(PDE solvers)</li>
-  <li>Computational astrodynamics</li>
   <li>Computational Fluid Dynamics</li>
   <li>Stochastic calculus and time series analysis</li>
   <li>Home Automation with Raspberry Pi</li>
@@ -16,7 +13,7 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <hr>
 <br />
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook&theme=omni&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook&theme=omni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 Link to pfp: https://twitter.com/asagi_0398/status/1471417918206640128
 
