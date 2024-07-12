@@ -3,11 +3,13 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <hr>
 <h2>Current Goals</h2>
 <ul>
-  <li>Portfolio website</li>
   <li>Unreal Engine 5</li>
-  <li>Computational physics(PDE solvers)</li>
+  <li>Computational physics(ODE, PDE solvers)</li>
+  <li>Monte Carlo simulation</li>
+  <li>Game physics engine</li>
   <li>Computational Fluid Dynamics</li>
-  <li>Stochastic calculus and time series analysis</li>
+  <li>Time series analysis</li>
+  <li>Stochastic calculus</li>
   <li>Home Automation with Raspberry Pi</li>
 </ul>
 <hr>
