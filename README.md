@@ -3,7 +3,7 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <hr>
 <h2>Current Goals</h2>
 <ul>
-  <li>Unreal Engine 5</li>
+  <li><del>Unreal Engine 5</del> Currently self-hosted using Gitea</li>
   <li>Computational physics(ODE, PDE solvers)</li>
   <li>Monte Carlo simulation</li>
   <li>Game physics engine</li>
