@@ -10,14 +10,12 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
   <li>Computational Fluid Dynamics</li>
   <li>Time series analysis</li>
   <li>Stochastic calculus</li>
-  <li>Home Automation with Raspberry Pi</li>
 </ul>
 <hr>
 <br />
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook&theme=omni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-Link to pfp: https://twitter.com/asagi_0398/status/1471417918206640128
 
 <!---
 Rally0078/Rally0078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
