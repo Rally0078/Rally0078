@@ -3,13 +3,15 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 <hr>
 <h2>Current Goals</h2>
 <ul>
-  <li><del>Unreal Engine 5</del> Currently self-hosted using Gitea</li>
   <li>Computational physics(ODE, PDE solvers)</li>
-  <li>Monte Carlo simulation</li>
-  <li>Game physics engine</li>
+  <li>Monte Carlo simulations</li>
+  <li>Lattice QFT and QCD</li>
+  <li>High Performance Computing</li>
+  <li>Machine learning, Deep learning, and Generative AI in Physics</li>
   <li>Computational Fluid Dynamics</li>
   <li>Time series analysis</li>
-  <li>Stochastic calculus</li>
+  <li>Stochastic processes and calculus</li>
+  <li>Unreal Engine 5(probably not hosted here)</li>
 </ul>
 <hr>
 <br />
