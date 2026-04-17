@@ -16,7 +16,7 @@ I just randomly upload code here (mostly lab work and personal projects, scripts
 I'm also planning to make the <a href="https://github.com/Rally0078/numericalClass">Numerical Methods Class</a> a fully fleshed-out repo with Jupyter Notebooks for a quick reference.
 <br /><br />
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook,idl&theme=omni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rally0078&hide=jupyter%20notebook,idl&theme=omni&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
