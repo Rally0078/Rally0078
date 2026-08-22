@@ -17,8 +17,9 @@ I'm also planning to make the <a href="https://github.com/Rally0078/numericalCla
 <br /><br />
 
 ![Stats](./profile/stats.svg)
+<br />
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 
 
 <!---
